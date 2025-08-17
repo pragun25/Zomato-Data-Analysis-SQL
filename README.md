@@ -44,9 +44,9 @@ The analysis is based on the following key assumptions and data handling conside
 
 - A fixed commission rate of 25% is assumed for gross platform revenue calculations. Orders availed under the Food Rescue feature are assumed to be paid at 50% of the total price plus delivery fees, with the remaining loss borne by Zomato. For cancelled orders without rescue, it is assumed that Zomato bears the entire loss.
 
-- The app_pageviews table follows a simplified journey of `/home` → `/search` → `/restaurants` → `/menu` → `/cart` → `/thankyou` page (Order Confirmation), although in practice the ordering path may vary. For the purposes of this analysis, each session is limited to producing at most one order, with no multi-restaurant orders.
+- The `app_pageviews` table follows a simplified journey of `/home` → `/search` → `/restaurants` → `/menu` → `/cart` → `/thankyou` page (Order Confirmation), although in practice the ordering path may vary. For the purposes of this analysis, each session is limited to producing at most one order, with no multi-restaurant orders.
 
-- The orders table contains delivery time for cancelled orders, which in these cases represents the cancellation time. All total_price / price fields in orders, order_items, order_items_cancelled, and menu are inclusive of GST and discounts. The amount_of_refund in order_items_cancelled is equal to the total price excluding the delivery fee; therefore, the net_orders view was created for accurate loss and revenue analysis.
+- The `orders` table contains delivery time for cancelled orders, which in these cases represents the cancellation time. All `total_price` / `price` fields in `orders`, `order_items`, `order_items_cancelled`, and `menu` are inclusive of GST and discounts. The `amount_of_refund` in `order_items_cancelled` is equal to the total price excluding the delivery fee; therefore, the `net_orders` view was created for accurate loss and revenue analysis.
 
 Note: As this dataset is synthetic and intended for portfolio demonstration, certain values may not reflect Zomato’s actual business metrics. The data covers the period from July 2024 to June 2025, with incomplete July 2025 figures shown as running totals. 
 
