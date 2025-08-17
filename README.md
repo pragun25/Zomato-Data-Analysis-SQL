@@ -74,7 +74,7 @@ Operational analysis also revealed that 11.99% of riders (120 in total) were und
 
 - Active purchasing users rebounded by the end of Q1 FY26 after a slow April. A weighted growth forecast (+3.32%) outpaces the simple average (+2.91%), projecting 1,237–1,247 active users by August 2025.
 
-- Organic traffic delivered the best efficiency (₹150.48 revenue per session, 74.93% conversion), followed by brand-driven sources (email and notifications). Paid traffic, though less efficient, drives the highest number of orders (6,036) and total revenue (₹12.1+ Lakhs) sustaining platform scale.
+- Organic traffic delivered the best efficiency (₹150.48 revenue per session, 74.93% conversion), followed by brand-driven sources (email and notifications). Paid traffic, though less efficient, drives the highest number of orders (6,036) and total revenue (₹1.2+ million) sustaining platform scale.
 
 | Analysis Objective  | SQL Query Output |
 | ------------- | ------------- |
