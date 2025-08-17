@@ -88,7 +88,7 @@ Operational analysis also revealed that 11.99% of riders (120 in total) were und
 
 - Early funnel retention is strong, with 97.5% of homepage visits proceeding to search and 100% of those visiting restaurant pages. A gradual mid-funnel drop sees 93.54% reaching menus and 93.20% adding products to cart, followed by the largest leak at checkout, where only 87.84% complete the purchase.
 
-- Single-item orders remain costlier to serve per unit value, with the highest delivery fee share of GMV at 13.46%, compared to 2.82% for big carts and 4.64% for medium carts. Average delivery fee remains ₹32.5 (inclusive of ₹0 fees for Gold members on orders above ₹199), while average delivery time is 55 minutes across all basket sizes, suggesting operational improvement opportunities.
+- Single-item orders remain costlier to serve per unit value, with the highest delivery fee share of GMV at 13.46%, compared to 2.82% for big carts and 4.64% for medium carts. Average delivery fee remains ₹33.4 (inclusive of ₹0 fees for Gold members on orders above ₹199), while average delivery time is 55 minutes across all basket sizes, suggesting operational improvement opportunities.
 
 - Mobile dominates sessions and orders (70%+ each), while desktop, though the smallest group performs best with a 75.40% conversion rate and ₹151.61 revenue per session. Cart abandonment rates remain roughly equal at 12% across all devices, indicating a platform wide behavioural pattern rather than a device specific challenge.
 
