@@ -52,7 +52,7 @@ Note: As this dataset is synthetic and intended for portfolio demonstration, cer
 
 ## Executive Summary
 
-Zomato, over the period from July 2024 to June 2025, recorded its highest city-level contributions from Delhi and Hyderabad, jointly generating ₹1.4 million+ lakhs in gross revenue. Hyderabad also claimed 5 of the top 10 highest rated listed restaurants. Bangalore produced the top commission-contributing restaurant yet ranked last in overall order and revenue generation, while Kolkata and Mumbai struggled with over ₹20K in combined losses from cancellations, coupled with the lowest AOV (₹198.85 for Kolkata) and conversion rates (73.87% for Mumbai).
+Zomato, over the period from July 2024 to June 2025, recorded its highest city-level contributions from Delhi and Hyderabad, jointly generating ₹1.4 million+ in gross revenue. Hyderabad also claimed 5 of the top 10 highest rated listed restaurants. Bangalore produced the top commission-contributing restaurant yet ranked last in overall order and revenue generation, while Kolkata and Mumbai struggled with over ₹20K in combined losses from cancellations, coupled with the lowest AOV (₹198.85 for Kolkata) and conversion rates (73.87% for Mumbai).
 
 February 2025 marked the sharpest dip (-17.15% orders, -14.68% revenue), followed by a rebound that saw a rolling 3-month revenue peak at ₹780.0K by the end of Q1 FY26. The recently launched Food-Rescue feature avoided 29.18% of would-be losses post launch. The mobile app drove over 70% of sessions, with paid traffic generating the highest orders, while organic and brand-driven channels (email and notifications) delivered the highest revenue per session (₹150+ each).
 
