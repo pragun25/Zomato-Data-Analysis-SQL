@@ -92,7 +92,7 @@ Operational analysis also revealed that 11.99% of riders (120 in total) were und
 
 - Mobile dominates sessions and orders (70%+ each), while desktop, though the smallest group performs best with a 75.40% conversion rate and ₹151.61 revenue per session. Cart abandonment rates remain roughly equal at 12% across all devices, indicating a platform wide behavioural pattern rather than a device specific challenge.
 
-- Evening peaks dominate, with the 8-9 PM window driving the highest app engagement (1,741 sessions) and the 10-11 AM breakfast slot reaching 860 sessions. Weekends do not show the expected surge, with engagement remaining relatively flat across the week. Notable late-night activity at 1-2 AM and 4-5 AM, especially on Sundays and Mondays signals a potential after-hours ordering pattern.
+- Evening peaks dominate, with the 8-10 PM window driving the highest app engagement (1,741 sessions) and the 10-11 AM breakfast slot reaching 860 sessions. Weekends do not show the expected surge, with engagement remaining relatively flat across the week. Notable late-night activity at 1-2 AM and 4-5 AM, especially on Sundays and Mondays signals a potential after-hours ordering pattern.
 
 - 11.99% of riders (120 in total) remain under-utilised, ranking in the bottom 25% for deliveries completed, highlighting inefficiencies in route allocation or rider scheduling.
 
