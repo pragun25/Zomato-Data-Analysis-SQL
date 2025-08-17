@@ -774,3 +774,8 @@ LIMIT 10;
 **Answer 17:**
 
 ![question 17](images/question_17.png)
+
+***
+
+Access the SQL script file [zomato_sql_script](https://github.com/pragun25/Zomato-Data-Analysis-SQL/blob/main/zomato_sql_script.sql) <br>
+Access the dataset [zomato_dataset](https://github.com/pragun25/Zomato-Data-Analysis-SQL/tree/main/zomato_dataset)
