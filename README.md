@@ -101,7 +101,7 @@ Operational analysis also revealed that 11.99% of riders (120 in total) were und
 | Map the UX funnel to pinpoint user drop-off stages | ![output 6](images/output_6_readme.png) |
 | Assess operational efficiency by cart size | ![output 7](images/output_7_readme.png) |
 | Evaluate device-driven differences in conversion, value generation, and engagement | ![output 8](images/output_8_readme.png) |
-| Forecast active buyer growth based on the latest quarter’s trends | ![output 9](images/output_9_readme.png)|
+| Analyse peak ordering hours alongside weekday and weekend engagement | ![output 9](images/output_9_readme.png)|
 | Flag under-utilised riders falling below the 25th percentile for completed deliveries | ![output 10](images/output_10_readme.png)
 
 ## Customer, Product & Restaurant Partner Level Analytics
